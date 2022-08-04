@@ -54,11 +54,11 @@ async def _human_time_duration(seconds):
 async def start_private(client: Client, message: Message):
  insert(int(message.chat.id))
  await message.reply_photo(
-        photo=f"https://telegra.ph//file/69b6154eaecdaf3845d9f.jpg",
+        photo=f"https://telegra.ph/file/bcd278a81f62515bb5edc.jpg",
         caption=f"""ʜᴇʟʟᴏ✨ **ᴡᴇʟᴄᴏᴍᴇ {message.from_user.mention()} !**\n
  **ɪ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄᴀʟʟ !!**
  **ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘʀᴏᴍᴏᴛᴇ**
- **𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝙱𝚈 [BETA 𝙱𝙾𝚃𝚉](t.me/beta_bot_updates)**""",
+ **𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝙱𝚈 [XOVO](t.me/https://t.me/xovo_efx)**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
