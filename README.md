@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/5803e5bc6ff1d65387925.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/bcd278a81f62515bb5edc.jpg" align="right" width="200" height="200"/>
 
 # Video Music Bot <img src="https://img.shields.io/github/v/release/BETA-OFFICIAL/BETA-MUSICBOT?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
