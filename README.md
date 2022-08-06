@@ -5,7 +5,7 @@
 [Music Bot](https://t.me/https://t.me/musicxsupportmm) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Beta-Music+Repo!;A+simple+Music+stream+bot!;with+all+Features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Music-Video+Stream+Repo!;A+simple+Music+stream+bot!;with+all+Features!)
 </p>
 
 
