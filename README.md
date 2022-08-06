@@ -42,7 +42,7 @@
 
 ## Thanks For Here
 
-## This Is A Cloned Version Of The Music All The Credits Goes To Its Original [Owners](https://github.com/BETA-OFFICIAL/BETA-MUSICBOT)
+## This Is A Cloned Version Of The Music Bot All The Credits Goes To Its Original [Owners](https://github.com/BETA-OFFICIAL/BETA-MUSICBOT)
 
 
 
